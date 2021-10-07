@@ -1,0 +1,19 @@
+{
+  "name": "typescript_base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "no-typescript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitsharma0027/Typescript_base.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitsharma0027/Typescript_base/issues"
+  },
+  "homepage": "https://github.com/rohitsharma0027/Typescript_base#readme"
+}

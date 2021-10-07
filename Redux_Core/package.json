@@ -1,0 +1,22 @@
+{
+  "name": "redux_core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "redux-demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitsharma0027/Redux_Core.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitsharma0027/Redux_Core/issues"
+  },
+  "homepage": "https://github.com/rohitsharma0027/Redux_Core#readme",
+  "dependencies": {
+    "redux": "^4.1.0"
+  }
+}
